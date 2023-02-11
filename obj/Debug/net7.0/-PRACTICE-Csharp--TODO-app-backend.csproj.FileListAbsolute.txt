@@ -1,0 +1,15 @@
+C:\NHU\FS13 back end\-PRACTICE-Csharp--TODO-app-backend\bin\Debug\net7.0\-PRACTICE-Csharp--TODO-app-backend.exe
+C:\NHU\FS13 back end\-PRACTICE-Csharp--TODO-app-backend\bin\Debug\net7.0\-PRACTICE-Csharp--TODO-app-backend.deps.json
+C:\NHU\FS13 back end\-PRACTICE-Csharp--TODO-app-backend\bin\Debug\net7.0\-PRACTICE-Csharp--TODO-app-backend.runtimeconfig.json
+C:\NHU\FS13 back end\-PRACTICE-Csharp--TODO-app-backend\bin\Debug\net7.0\-PRACTICE-Csharp--TODO-app-backend.dll
+C:\NHU\FS13 back end\-PRACTICE-Csharp--TODO-app-backend\bin\Debug\net7.0\-PRACTICE-Csharp--TODO-app-backend.pdb
+C:\NHU\FS13 back end\-PRACTICE-Csharp--TODO-app-backend\obj\Debug\net7.0\-PRACTICE-Csharp--TODO-app-backend.csproj.AssemblyReference.cache
+C:\NHU\FS13 back end\-PRACTICE-Csharp--TODO-app-backend\obj\Debug\net7.0\-PRACTICE-Csharp--TODO-app-backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\NHU\FS13 back end\-PRACTICE-Csharp--TODO-app-backend\obj\Debug\net7.0\-PRACTICE-Csharp--TODO-app-backend.AssemblyInfoInputs.cache
+C:\NHU\FS13 back end\-PRACTICE-Csharp--TODO-app-backend\obj\Debug\net7.0\-PRACTICE-Csharp--TODO-app-backend.AssemblyInfo.cs
+C:\NHU\FS13 back end\-PRACTICE-Csharp--TODO-app-backend\obj\Debug\net7.0\-PRACTICE-Csharp--TODO-app-backend.csproj.CoreCompileInputs.cache
+C:\NHU\FS13 back end\-PRACTICE-Csharp--TODO-app-backend\obj\Debug\net7.0\-PRACTICE-Csharp--TODO-app-backend.dll
+C:\NHU\FS13 back end\-PRACTICE-Csharp--TODO-app-backend\obj\Debug\net7.0\refint\-PRACTICE-Csharp--TODO-app-backend.dll
+C:\NHU\FS13 back end\-PRACTICE-Csharp--TODO-app-backend\obj\Debug\net7.0\-PRACTICE-Csharp--TODO-app-backend.pdb
+C:\NHU\FS13 back end\-PRACTICE-Csharp--TODO-app-backend\obj\Debug\net7.0\-PRACTICE-Csharp--TODO-app-backend.genruntimeconfig.cache
+C:\NHU\FS13 back end\-PRACTICE-Csharp--TODO-app-backend\obj\Debug\net7.0\ref\-PRACTICE-Csharp--TODO-app-backend.dll
