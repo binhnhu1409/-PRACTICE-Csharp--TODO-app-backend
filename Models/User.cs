@@ -7,7 +7,7 @@ public class User
     public string LastName { get; set; }
     public string Email { get; set; }
     public string? Password { get; set; }
-    public List<Task>? Tasks { get; set; }
+    public List<TodoTask>? Tasks { get; set; }
 
     public User (int id, string firstName, string lastName, string email)
     {
