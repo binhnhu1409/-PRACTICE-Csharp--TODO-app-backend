@@ -7,6 +7,7 @@ using DTOs;
 public class TodoController
 {
     private readonly ITodoService _service;
+    public User CurrentUser { get; }
 
     public TodoController(ITodoService service)
     {
@@ -16,7 +17,7 @@ public class TodoController
     // POST /api/todos
     public async Task<TodoTask> CreateAsync(TodoRequest request)
     {
-        var task = await _service.CreateAsync(request);
+        var task = await _service.CreateAsync(request, CurrentUser);
         return task;
     }
 
@@ -29,7 +30,7 @@ public class TodoController
     //PUT /api/todos/{id}
     public async Task<TodoTask> UpdateAsync(int id, TodoRequest request)
     {
-        return await _service.UpdateAsync(id, request);
+        return await _service.UpdateAsync(id, request, CurrentUser);
     }
 
     // DELETE /api/todos/{id}
